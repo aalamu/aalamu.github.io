@@ -58,5 +58,5 @@ You can reach me through:
 
 - 🐙 [Github](https://www.github.com/aalamu)
 - 🐦 [Twitter](https://x.com/aalamu_)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aalamu)
-- 📧 yusufalamumusa [at] gmail [dot] com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-alamu-m/)
+- 📧 alamuyusufmusa [at] gmail [dot] com
