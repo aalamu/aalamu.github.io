@@ -57,6 +57,6 @@ Here are a couple of my articles:
 You can reach me through:
 
 - 🐙 [Github](https://www.github.com/aalamu)
-- 🐦 [Twitter](https://x.com/aalamu_)
+- 🐦 [Twitter](https://x.com/aalamu_m)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-alamu-m/)
 - 📧 alamuyusufmusa [at] gmail [dot] com
