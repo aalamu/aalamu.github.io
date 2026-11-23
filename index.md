@@ -13,6 +13,14 @@ I enjoy creating scalable, maintainable solutions and continuously learning new 
 
 ## Projects
 
+### [Daap](/daap/)
+
+Daap is a local discovery app I founded and build end to end: it helps people find the businesses, communities, jobs and conversations around them.
+Spring Boot backend, Angular web app, React Native mobile app, on AWS and Cloudflare, with location ranking, hybrid search and AI features. Pre-launch.
+[See screens and what I built &rarr;](/daap/)
+
+**Java** \| **Spring Boot** \| **PostgreSQL** \| **Angular** \| **React Native** \| **AWS** \| **AI**
+
 ### [Detective Z](https://github.com/aalamu/detective-z)
 
 Detective Z is a web app that allows users to investigate a link or product to determine whether it may be associated with scams, fraud, phishing, or other types of malicious activity. 
